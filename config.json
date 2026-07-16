@@ -3,7 +3,9 @@
   "LOGIN_METHOD": "appstate",
   "BOTNAME": "VincentSensei",
   "PREFIX": ".",
-  "ADMINBOT": [61589047318104],
+  "ADMINBOT": [
+    "61589047318104"
+  ],
   "ADMIN_NAME": "VincentSensei",
   "ADMINBOT_NAMES": {
     "61589047318104": "Vincent"
